@@ -3587,7 +3587,8 @@ export const WORDS = [
     'bronc',
     'tabor',
     'teeny',
-    'comer',
+    '
+    mer',
     'borer',
     'sired',
     'privy',
